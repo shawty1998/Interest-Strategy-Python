@@ -87,13 +87,13 @@ def setup():
     #Bad pracctise especially when sending to others
     
     binance_api_keys = {
-    'api_key':'HFTPZvR4Oq0zIj0y0ssmheSKNxaCJDb49UdrSDGm2sSlXMQLRPmhf5eGLOvXvvyh',
-    'api_secret':'2scI8hR0zevv17Nj4nP1fECEYlft9eqktxJnrSDhaprMKFYtDGdRG7GfKBShrPKf'
+    'api_key':'',
+    'api_secret':''
     }
 
     ftx_api_keys = {
-        'api_key':'FTe1CuVsXjvH4m-EF2BFGxH5s4Za-qazfSZL7eA0',
-        'api_secret':'9e747Pmd-Z-0PG2XQ8r1AeLKZvd0n5hB6xe-OXhz'
+        'api_key':'',
+        'api_secret':''
     }
     global bin_client, ftx_client
     
